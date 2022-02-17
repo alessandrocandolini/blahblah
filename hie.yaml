@@ -1,0 +1,17 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "blahblah:lib"
+
+    - path: "./app/Main.hs"
+      component: "blahblah:exe:blahblah-exe"
+
+    - path: "./app/Main.hs"
+      component: "blahblah:exe:blahblah-exe"
+
+    - path: "./app/Paths_blahblah.hs"
+      component: "blahblah:exe:blahblah-exe"
+
+    - path: "./test"
+      component: "blahblah:test:blahblah-test"
+
