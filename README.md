@@ -1,5 +1,9 @@
 # blahblah
 
+Useless project, just to showcase usage of stack templates: https://github.com/alessandrocandolini/stack-templates 
+
+Ill remove this in the future
+
 ## How to build and run locally
 
 The project uses the [Haskell tool stack](https://docs.haskellstack.org/en/stable/README/).
